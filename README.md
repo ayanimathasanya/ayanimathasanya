@@ -8,7 +8,7 @@
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
+<!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayanima-thasanya-hettiarachchi-6b0886223/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayanimathasanya2002@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
@@ -17,20 +17,19 @@
 
 ---
 
-## 👩‍💼 About Me
+## 🙋‍♀️ About Me
 
-```javascript
-const ayanima = {
-  name     : "Ayanima Thasanya Hettiarachchi",
-  location : "Ganemulla, Sri Lanka 🇱🇰",
-  education: "BSc (Hons) Information Technology @ SLIIT",
-  year     : "4th Year Undergraduate",
-  internship: "Full Stack Developer @ SLT Telecom ✅",
-  lookingFor: "Junior / Associate IT Position",
-  passion  : ["Web Development", "UI/UX Design", "Mobile Apps"],
-  funFact  : "I turn coffee ☕ into code 💻"
-};
-```
+Hi there! I'm **Ayanima Thasanya Hettiarachchi** 👋  
+A passionate **IT Undergraduate** from 🇱🇰 Sri Lanka, currently in my final year at **SLIIT**.
+
+- 🎓 Pursuing **BSc (Hons) in Information Technology** at SLIIT
+- 💼 Completed **Full Stack Developer Internship** at **SLT Telecom**
+- 🔭 Currently working on exciting **web & mobile projects**
+- 🌱 Always learning new technologies and improving my skills
+- 💡 Passionate about **Web Development**, **UI/UX Design** & **Mobile Apps**
+- 🎯 Seeking a **Junior / Associate IT Position** in the industry
+- 📍 Based in **Ganemulla, Sri Lanka**
+- 📬 Reach me at **ayanimathasanya2002@gmail.com**
 
 ---
 
@@ -128,7 +127,7 @@ const ayanima = {
 ## 💼 Work Experience
 
 > **Full Stack Developer Intern** — *Sri Lanka Telecom (SLT), Colombo HQ*
-> 
+>
 > Gained hands-on experience with the **MERN Stack** in a professional enterprise environment. Worked on web application development, system design, and collaborative problem-solving with real-world teams.
 
 ---
