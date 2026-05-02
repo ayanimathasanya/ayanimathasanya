@@ -171,12 +171,15 @@ A passionate **IT Undergraduate** from 🇱🇰 Sri Lanka, currently in my final
 ---
 
 ## 🎓 Education
+<div align="center">
 
 | 📅 Year | 🏫 Institution | 📜 Qualification |
 |---|---|---|
 | 2022 – Present | Sri Lanka Institute of Information Technology (SLIIT) | BSc (Hons) in IT – Specialization IT |
 | 2018 – 2021 | Ananda Balika Vidyalaya, Colombo-10 | G.C.E A/L |
 | 2012 – 2018 | Ananda Balika Vidyalaya, Colombo-10 | G.C.E O/L |
+
+</div>
 
 ---
 
