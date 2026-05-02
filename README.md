@@ -1,93 +1,66 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Hi%20There!%20I'm%20Ayanima%20👋&fontSize=42&fontColor=58a6ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20IT%20Undergraduate%20%7C%20SLIIT&descAlignY=58&descSize=17&descColor=8b949e&animation=fadeIn" width="100%"/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=🚀+Building+the+Future+with+Code;💻+MERN+Stack+%7C+Full+Stack+Developer;🎓+Final+Year+IT+Undergraduate+@+SLIIT;🌟+Ex-Intern+@+SLT+Telecom;✨+Passionate+about+UI%2FUX+%26+Mobile+Apps)](https://git.io/typing-svg)
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Ayanima%20Hettiarachchi&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=IT%20Undergraduate%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=👩‍💻+Full+Stack+Developer+%7C+MERN+Stack;🎓+BSc+(Hons)+IT+%40+SLIIT;🌱+Always+learning%2C+always+building;💼+Ex-Intern+%40+SLT+Telecom)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=58a6ff&style=for-the-badge)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=58a6ff)](https://github.com/YOUR_USERNAME)
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayanima-thasanya-hettiarachchi-6b0886223/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayanimathasanya2002@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 </div>
 
-<br/>
-
 ---
-
-<img align="right" alt="Coding Girl" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ## 🙋‍♀️ About Me
 
-<br/>
+Hi there! I'm **Ayanima Thasanya Hettiarachchi** 👋  
+A passionate **IT Undergraduate** from 🇱🇰 Sri Lanka, currently in my final year at **SLIIT**.
 
-🎓 &nbsp;**4th Year IT Undergraduate** at **SLIIT**, Sri Lanka
-
-💼 &nbsp;Completed **Full Stack Dev Internship** at **SLT Telecom**
-
-🔭 &nbsp;Currently building exciting **web & mobile projects**
-
-🌱 &nbsp;Always learning — right now exploring **Cloud & DevOps**
-
-💡 &nbsp;Passionate about **Web Dev**, **UI/UX** & **Mobile Apps**
-
-🎯 &nbsp;Seeking **Junior / Associate IT Position**
-
-📍 &nbsp;Based in **Ganemulla, Sri Lanka** 🇱🇰
-
-📬 &nbsp;Reach me: **ayanimathasanya2002@gmail.com**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayanima-thasanya-hettiarachchi-6b0886223/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayanimathasanya2002@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-<br/><br/>
+- 🎓 Pursuing **BSc (Hons) in Information Technology** at SLIIT
+- 💼 Completed **Full Stack Developer Internship** at **SLT Telecom**
+- 🔭 Currently working on exciting **web & mobile projects**
+- 🌱 Always learning new technologies and improving my skills
+- 💡 Passionate about **Web Development**, **UI/UX Design** & **Mobile Apps**
+- 🎯 Seeking a **Junior / Associate IT Position** in the industry
+- 📍 Based in **Ganemulla, Sri Lanka**
+- 📬 Reach me at **ayanimathasanya2002@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-### 🌐 Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### ⚙️ Backend & Databases
-<p>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-</p>
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🎨 Design & Tools
-<p>
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -167,27 +140,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="180"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff" width="55%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="60%"/>
 </div>
 
 ---
@@ -197,7 +156,7 @@
 <div align="center">
 
 | 🏅 Certificate | 🏫 Issuer | 📅 Year |
-|---|---|---|
+|:---|:---|:---:|
 | 🌐 Web Design for Beginners | University of Moratuwa | 2023 |
 | 🐍 Python for Beginners | University of Moratuwa | 2023 |
 | 🤖 Digital Skills: Artificial Intelligence | Accenture | 2023 |
@@ -213,56 +172,33 @@
 
 ## 🎓 Education
 
-<div align="center">
-
-| 📅 Period | 🏫 Institution | 📜 Qualification |
+| 📅 Year | 🏫 Institution | 📜 Qualification |
 |---|---|---|
-| 2022 – Present | 🏛️ SLIIT – Sri Lanka Institute of Information Technology | BSc (Hons) IT – Specialization IT |
-| 2018 – 2021 | 🏫 Ananda Balika Vidyalaya, Colombo-10 | G.C.E Advanced Level |
-| 2012 – 2018 | 🏫 Ananda Balika Vidyalaya, Colombo-10 | G.C.E Ordinary Level |
-
-</div>
+| 2022 – Present | Sri Lanka Institute of Information Technology (SLIIT) | BSc (Hons) in IT – Specialization IT |
+| 2018 – 2021 | Ananda Balika Vidyalaya, Colombo-10 | G.C.E A/L |
+| 2012 – 2018 | Ananda Balika Vidyalaya, Colombo-10 | G.C.E O/L |
 
 ---
 
 ## 💼 Work Experience
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║      🏢  Sri Lanka Telecom (SLT) — Colombo HQ               ║
-║      💼  Full Stack Developer Intern                         ║
-║      🛠️  MERN Stack | System Design | Team Collaboration     ║
-║      📌  Gained hands-on enterprise-level experience         ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
+> **Full Stack Developer Intern** — *Sri Lanka Telecom (SLT), Colombo HQ*
+>
+> Gained hands-on experience with the **MERN Stack** in a professional enterprise environment. Worked on web application development, system design, and collaborative problem-solving with real-world teams.
 
 ---
 
 <div align="center">
 
-## 📬 Let's Connect & Build Something Amazing!
+### 📬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayanima-thasanya-hettiarachchi-6b0886223/)
-[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayanimathasanya2002@gmail.com)
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
-
-<br/><br/>
-
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayanima-thasanya-hettiarachchi-6b0886223/)
+[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayanimathasanya2002@gmail.com)
 
 <br/>
 
-*"Striving to build tech solutions that make a real difference"* ✨
+*"Striving to build tech solutions that make a real difference"* 💫
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer" width="100%"/>
 
 </div>
