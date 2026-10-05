@@ -1,44 +1,70 @@
-<div align="center">
+<!-- ========================================================= -->
+<!--                         HEADER                            -->
+<!-- ========================================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:06B6D4&height=180&section=header&text=Ayanima%20Thasanya%20Hettiarachchi&fontSize=30&fontColor=FFFFFF&fontAlignY=40&desc=IT%20Undergraduate%20%7C%20Software%20Developer%20%7C%20Data%20%26%20AI%20Enthusiast&descAlignY=62&descSize=14" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0F172A,65:164E63,100:06B6D4&height=210&section=header&text=Ayanima%20Thasanya%20Hettiarachchi&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=IT%20Undergraduate%20%7C%20Software%20Developer%20%7C%20Data%20%26%20AI%20Enthusiast&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+</p>
 
 <br>
 
-<img src="https://github.com/ayanimathasanya.png" width="150" height="150" style="border-radius:50%;" alt="Ayanima Thasanya Hettiarachchi"/>
+<p align="center">
+  <img src="https://github.com/ayanimathasanya.png" width="145" alt="Ayanima Thasanya Hettiarachchi"/>
+</p>
 
-<br><br>
+<h2 align="center">Hello, I'm Ayanima 👋</h2>
+
+<p align="center">
+  <strong>Information Technology Undergraduate at SLIIT</strong>
+</p>
+
+<p align="center">
+  Building practical software solutions while exploring
+  <strong>Data, Artificial Intelligence, Machine Learning and Research.</strong>
+</p>
+
+<br>
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/ayanima-thasanya-hettiarachchi-6b0886223/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ayanimathasanya2002@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ayanimathasanya">
-  <img src="https://img.shields.io/badge/GitHub-ayanimathasanya-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=ayanimathasanya&style=flat-square&color=0891b2&label=Profile+Views" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayanimathasanya&label=Profile%20Views&color=0891B2&style=flat-square"/>
+</p>
 
 ---
 
-# 👋 About Me
+# 👩‍💻 About Me
 
 I'm an **Information Technology undergraduate at the Sri Lanka Institute of Information Technology (SLIIT)** with hands-on experience in software development, mobile applications, databases, UI/UX and research-oriented systems.
 
-My development journey has taken me from building full-stack applications to exploring **data visualization, machine learning and Explainable AI**.
+My journey in technology has taken me from developing full-stack applications to exploring **data visualization, machine learning and Explainable AI**.
 
-I enjoy understanding a problem first, designing a practical solution and turning that idea into a working system.
+I enjoy understanding real-world problems, designing practical solutions and transforming ideas into functional digital systems.
 
-### Areas I'm Interested In
+### Areas of Interest
 
-`Full-Stack Development` · `Mobile Development` · `Data Science` · `Artificial Intelligence` · `Machine Learning` · `Explainable AI` · `UI/UX` · `Research`
+- 🌐 Full-Stack Development
+- 📱 Mobile Application Development
+- 📊 Data Analysis & Visualization
+- 🤖 Artificial Intelligence & Machine Learning
+- 🔍 Explainable AI
+- 🎨 UI/UX Design
+- 🔬 Research & Development
+- 🗄️ Database Systems
 
 ---
 
@@ -47,17 +73,17 @@ I enjoy understanding a problem first, designing a practical solution and turnin
 <table>
 <tr>
 
-<td width="50%" align="left">
+<td width="50%" valign="top">
 
-### ◈ Software Systems
+### 🌐 Software Systems
 
 Full-stack web applications, database-driven systems and practical management solutions.
 
 </td>
 
-<td width="50%" align="left">
+<td width="50%" valign="top">
 
-### ◈ Mobile Applications
+### 📱 Mobile Applications
 
 Android and Flutter applications focused on usability, functionality and user experience.
 
@@ -67,17 +93,17 @@ Android and Flutter applications focused on usability, functionality and user ex
 
 <tr>
 
-<td width="50%" align="left">
+<td width="50%" valign="top">
 
-### ◈ Data & AI
+### 📊 Data & AI
 
 Data visualization, machine learning and Explainable AI solutions.
 
 </td>
 
-<td width="50%" align="left">
+<td width="50%" valign="top">
 
-### ◈ Research
+### 🔬 Research
 
 Technology-driven research projects connecting data, intelligent systems and real-world problems.
 
@@ -88,27 +114,89 @@ Technology-driven research projects connecting data, intelligent systems and rea
 
 ---
 
-# 🚀 Selected Projects
+# 🛠️ Technology Stack
 
-> A collection of academic, research and personal projects developed throughout my IT journey.
+## 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,python,kotlin,javascript" />
+
+</p>
+
+## 🌐 Web Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,spring" />
+
+</p>
+
+## 🗄️ Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+</p>
+
+## 📱 Mobile & Design
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=androidstudio,flutter,figma" />
+
+</p>
+
+## 🔧 Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+</p>
 
 ---
 
-## 01 · Dengue Health SL
+# 📊 Technical Skills
+
+| Area | Technologies |
+|---|---|
+| **Frontend** | HTML, CSS, JavaScript, React |
+| **Backend** | Node.js, Express.js, Spring Boot |
+| **Programming** | Java, C++, Python, Kotlin |
+| **Databases** | MongoDB, MySQL |
+| **Mobile** | Android, Kotlin, Flutter |
+| **UI / UX** | Figma, Interface Design |
+| **Data** | Data Visualization, Data Analysis |
+| **AI** | Machine Learning, Explainable AI, SHAP |
+| **Development** | Git, GitHub, VS Code, Android Studio |
+| **APIs** | REST APIs, Backend Integration |
+| **Research** | Research Integration, Technical Documentation |
+
+---
+
+# 🚀 Featured Projects
+
+> A selection of academic, research and personal projects developed throughout my IT journey.
+
+---
+
+## 🦟 01 · Dengue Health SL
 
 ### Explainable AI-Based Dengue Risk Analysis Mobile Application
 
-Dengue Health SL is a research-oriented mobile application that combines machine learning, data visualization and Explainable AI to support dengue risk analysis.
+Dengue Health SL is a research-oriented mobile application that combines **machine learning, data visualization and Explainable AI** to support dengue risk analysis.
 
-**My Role**
+### My Role
 
-`IT22165848 — Data Visualization & Research Integration Developer`
+**IT22165848 — Data Visualization & Research Integration Developer**
 
-**Technologies**
+### Technologies
 
 `Flutter` `Python` `Flask` `Machine Learning` `SHAP` `Data Visualization`
 
-**Focus Areas**
+### Key Areas
 
 - Explainable AI
 - SHAP-based model explanations
@@ -121,17 +209,17 @@ Dengue Health SL is a research-oriented mobile application that combines machine
 
 ---
 
-## 02 · Home Stock
+## 🏠 02 · Home Stock
 
 ### Smart Home Inventory & Grocery Management System
 
-Home Stock is a MERN-based application designed to help users manage household products, monitor stock levels and keep track of product expiry dates.
+Home Stock is a **MERN-based application** designed to help users manage household products, monitor stock levels and keep track of product expiry dates.
 
-**Technologies**
+### Technologies
 
 `MongoDB` `Express.js` `React` `Node.js`
 
-**Focus Areas**
+### Key Areas
 
 - Inventory management
 - Stock monitoring
@@ -142,17 +230,17 @@ Home Stock is a MERN-based application designed to help users manage household p
 
 ---
 
-## 03 · Tasty Tales
+## 🍳 03 · Tasty Tales
 
 ### Recipe Sharing & Community Platform
 
 Tasty Tales is a full-stack web application designed for discovering, managing and sharing recipes through an interactive community platform.
 
-**Technologies**
+### Technologies
 
 `React` `Spring Boot` `Java` `MongoDB`
 
-**Focus Areas**
+### Key Areas
 
 - Recipe management
 - Recipe sharing
@@ -163,17 +251,17 @@ Tasty Tales is a full-stack web application designed for discovering, managing a
 
 ---
 
-## 04 · Surfing School Management System
+## 🏄 04 · Surfing School Management System
 
 ### Web-Based School Management Platform
 
 A MERN-based management system designed to simplify surfing school operations, student management and administrative activities.
 
-**Technologies**
+### Technologies
 
 `MongoDB` `Express.js` `React` `Node.js`
 
-**Focus Areas**
+### Key Areas
 
 - Student registration
 - Class scheduling
@@ -184,17 +272,17 @@ A MERN-based management system designed to simplify surfing school operations, s
 
 ---
 
-## 05 · Health Insurance Management System
+## 🏥 05 · Health Insurance Management System
 
 ### Insurance Policy & Claims Management Platform
 
 A database-driven web application developed to manage insurance policies, customer information, claims and premium-related information.
 
-**Technologies**
+### Technologies
 
 `HTML` `CSS` `JavaScript` `MySQL`
 
-**Focus Areas**
+### Key Areas
 
 - Insurance policy management
 - Customer information management
@@ -205,17 +293,17 @@ A database-driven web application developed to manage insurance policies, custom
 
 ---
 
-## 06 · Day Today Task App
+## 📱 06 · Day Today Task App
 
 ### Android Productivity & Task Management Application
 
 A Kotlin-based Android application developed to help users organize daily activities and manage personal tasks.
 
-**Technologies**
+### Technologies
 
 `Kotlin` `Android Studio`
 
-**Focus Areas**
+### Key Areas
 
 - Task creation
 - Daily task management
@@ -225,17 +313,17 @@ A Kotlin-based Android application developed to help users organize daily activi
 
 ---
 
-## 07 · Online Coffee Shop App
+## ☕ 07 · Online Coffee Shop App
 
 ### Mobile Ordering & UI/UX Application
 
 A mobile application concept focused on product browsing, ordering and creating a simple digital shopping experience.
 
-**Technologies**
+### Technologies
 
 `Mobile Development` `Figma` `UI/UX`
 
-**Focus Areas**
+### Key Areas
 
 - Product browsing
 - Ordering experience
@@ -262,7 +350,7 @@ The system integrates machine learning with **Explainable AI (XAI)** to provide 
 **Data Visualization & Research Integration Developer**
 
 ```text
-Research Data
+Historical Data
       │
       ▼
 Machine Learning Model
