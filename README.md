@@ -1,96 +1,94 @@
-# 👋 Hi, I'm Ayanima Thasanya Hettiarachchi
+<div align="center">
 
-### IT Undergraduate | Software Developer | Data & AI Enthusiast
+# Ayanima Thasanya Hettiarachchi
 
-<p align="center">
-  <i>Building practical digital solutions while exploring software development, data, artificial intelligence, and research.</i>
+### Information Technology Undergraduate · Software Developer · Data & AI Enthusiast
+
+<p>
+  <em>Turning ideas into practical digital solutions.</em>
 </p>
 
-<p align="center">
+<br>
 
 <a href="https://www.linkedin.com/in/ayanima-thasanya-hettiarachchi-6b0886223/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="mailto:ayanimathasanya2002@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="https://github.com/ayanimathasanya">
-<img src="https://img.shields.io/badge/GitHub-ayanimathasanya-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
-</p>
+<br><br>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ayanimathasanya&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=ayanimathasanya&style=flat-square&color=0891b2&label=Profile+Views" />
 
----
-
-# 👩‍💻 About Me
-
-I'm an **Information Technology undergraduate at the Sri Lanka Institute of Information Technology (SLIIT)** with an interest in software development, data, artificial intelligence, mobile applications, and research.
-
-Throughout my academic journey, I have developed a variety of software projects ranging from full-stack web applications and mobile applications to research-oriented intelligent systems.
-
-I enjoy learning new technologies, solving practical problems, and transforming ideas into useful digital solutions.
-
-### 🔎 Areas I'm Interested In
-
-- 🌐 Full-Stack Development
-- 📱 Mobile Application Development
-- 📊 Data Analysis & Visualization
-- 🤖 Artificial Intelligence & Machine Learning
-- 🔍 Explainable AI
-- 🎨 UI/UX Design
-- 🔬 Research & Development
-- 🗄️ Database Systems
+</div>
 
 ---
 
-# 🚀 What I Do
+## About Me
+
+I'm an **Information Technology undergraduate at the Sri Lanka Institute of Information Technology (SLIIT)** with hands-on experience in software development, mobile applications, databases, UI/UX and research-oriented systems.
+
+My development journey has taken me from building full-stack applications to exploring **data visualization, machine learning and Explainable AI**.
+
+I enjoy understanding a problem first, designing a practical solution and turning that idea into a working system.
+
+### Areas I'm Interested In
+
+- Full-Stack Development
+- Mobile Application Development
+- Data Analysis & Visualization
+- Artificial Intelligence & Machine Learning
+- Explainable AI
+- UI/UX Design
+- Research & Development
+- Database Systems
+
+---
+
+## What I Build
 
 <table>
 <tr>
 
-<td width="25%" align="center">
+<td width="50%">
 
-## 🌐
+### Software Systems
 
-### Web Development
-
-Developing responsive and database-driven web applications using modern frontend and backend technologies.
+Full-stack web applications, database-driven systems and practical management solutions.
 
 </td>
 
-<td width="25%" align="center">
+<td width="50%">
 
-## 📱
+### Mobile Applications
 
-### Mobile Development
-
-Creating mobile application solutions with a focus on functionality, usability, and user experience.
+Android and Flutter applications focused on usability and real-world functionality.
 
 </td>
 
-<td width="25%" align="center">
+</tr>
 
-## 📊
+<tr>
+
+<td width="50%">
 
 ### Data & AI
 
-Exploring data visualization, machine learning, and explainable artificial intelligence.
+Data visualization, machine learning and Explainable AI solutions.
 
 </td>
 
-<td width="25%" align="center">
-
-## 🔬
+<td width="50%">
 
 ### Research
 
-Working on research-oriented applications that combine technology with real-world problems.
+Technology-driven research projects that connect data, intelligent systems and real-world problems.
 
 </td>
 
@@ -99,366 +97,186 @@ Working on research-oriented applications that combine technology with real-worl
 
 ---
 
-# 🛠️ Technology Stack
+# Selected Projects
 
-## 💻 Programming Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,cpp,python,kotlin,javascript" />
-
-</p>
-
-## 🌐 Web Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,spring" />
-
-</p>
-
-## 🗄️ Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-</p>
-
-## 📱 Mobile & Design
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=androidstudio,flutter,figma" />
-
-</p>
-
-## 🛠️ Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-
-</p>
+> A selection of academic, research and personal projects developed throughout my IT journey.
 
 ---
 
-# 📌 Skills Overview
+## 01 · Dengue Health SL
 
-| Category | Skills |
-|---|---|
-| **Programming** | Java, C++, Python, Kotlin, JavaScript |
-| **Frontend** | HTML, CSS, JavaScript, React |
-| **Backend** | Node.js, Express.js, Spring Boot |
-| **Databases** | MongoDB, MySQL |
-| **Mobile Development** | Android, Kotlin, Flutter |
-| **UI/UX** | Figma, Interface Design |
-| **Data & AI** | Machine Learning, SHAP, Data Visualization |
-| **Development Tools** | Git, GitHub, VS Code, Android Studio |
-| **API Development** | REST APIs, Backend Integration |
-| **Research** | Data Analysis, Research Integration, Technical Documentation |
+### Explainable AI-Based Dengue Risk Analysis Mobile Application
 
----
+Dengue Health SL is a research-oriented mobile application that combines machine learning, data visualization and Explainable AI to support dengue risk analysis.
 
-# 🌟 Featured Projects
+### My Role
 
-A collection of academic, research and personal projects developed throughout my IT journey.
-
----
-
-## 🦟 01. Dengue Health SL
-
-### Explainable AI-Based Dengue Risk Prediction Mobile Application
-
-**Dengue Health SL** is a research-oriented mobile application designed to support dengue risk analysis using machine learning, data visualization and Explainable AI.
+**IT22165848 — Data Visualization & Research Integration Developer**
 
 ### Technologies
 
 `Flutter` `Python` `Flask` `Machine Learning` `SHAP` `Data Visualization`
 
-### Key Features
+### Main Areas
 
-- 🧠 Machine-learning-based dengue risk analysis
-- 🔍 SHAP-based Explainable AI
-- 📊 Data visualization
-- 📈 Dengue trend analysis
-- 🌦️ Environmental and temporal data analysis
-- 📱 Mobile application interface
-- 🚨 Risk information and alerts
-
-### My Contribution
-
-**Data Visualization & Research Integration Developer**
-
-- Developed the Explainable AI component
-- Integrated SHAP-based explanations
-- Designed visualization concepts
-- Worked with historical dengue-related data
-- Integrated research outputs into the application
-- Contributed to system and research integration
+- Explainable AI
+- SHAP-based model explanations
+- Risk analysis
+- Data visualization
+- Mobile application integration
+- Research system development
+- Historical dengue data analysis
+- Environmental and temporal data analysis
 
 ---
 
-## 🏠 02. Home Stock
+## 02 · Home Stock
 
 ### Smart Home Inventory & Grocery Management System
 
-**Home Stock** is a MERN-based application designed to help users manage household inventory, monitor stock levels, and keep track of product expiry dates.
+Home Stock is a MERN-based application designed to help users manage household products, monitor stock levels and keep track of product expiry dates.
 
 ### Technologies
 
 `MongoDB` `Express.js` `React` `Node.js`
 
-### Key Features
+### Main Areas
 
-- 📦 Household inventory management
-- 📊 Stock level tracking
-- ⏰ Expiry date monitoring
-- ➕ Product management
-- ✏️ CRUD operations
-- 📋 User-friendly dashboard
+- Inventory management
+- Stock monitoring
+- Expiry tracking
+- Product management
+- CRUD operations
+- Dashboard development
 
 ---
 
-## 🍳 03. Tasty Tales
+## 03 · Tasty Tales
 
 ### Recipe Sharing & Community Platform
 
-**Tasty Tales** is a full-stack web application designed to provide users with a platform for discovering, managing, and sharing recipes.
+Tasty Tales is a full-stack web application designed for discovering, managing and sharing recipes through an interactive community platform.
 
 ### Technologies
 
 `React` `Spring Boot` `Java` `MongoDB`
 
-### Key Features
+### Main Areas
 
-- 🍽️ Recipe management
-- 📤 Recipe sharing
-- 🔎 Recipe discovery
-- 👥 Community interaction
-- 🔗 REST-based architecture
-- 🗄️ Database integration
+- Recipe management
+- Recipe sharing
+- Search and discovery
+- Community interaction
+- REST architecture
+- Database integration
 
 ---
 
-## 🏄 04. Surfing School Management System
+## 04 · Surfing School Management System
 
 ### Web-Based School Management Platform
 
-A MERN-based management system developed to simplify surfing school operations, student management, and administrative activities.
+A MERN-based management system designed to simplify surfing school operations, student management and administrative activities.
 
 ### Technologies
 
 `MongoDB` `Express.js` `React` `Node.js`
 
-### Key Features
+### Main Areas
 
-- 👨‍🎓 Student registration
-- 📅 Class scheduling
-- 💳 Payment management
-- 📋 Student records
-- ⚙️ Administrative management
-- 📱 Responsive web interface
+- Student registration
+- Class scheduling
+- Payment management
+- Student records
+- Administrative workflows
+- Responsive web interface
 
 ---
 
-## 🏥 05. Health Insurance Management System
+## 05 · Health Insurance Management System
 
 ### Insurance Policy & Claims Management Platform
 
-A web-based system developed to manage health insurance policies, customer information, claims, and premium-related information.
+A database-driven web application developed to manage insurance policies, customer information, claims and premium-related information.
 
 ### Technologies
 
 `HTML` `CSS` `JavaScript` `MySQL`
 
-### Key Features
+### Main Areas
 
-- 📄 Insurance policy management
-- 👤 Customer information management
-- 📝 Claims processing
-- 💰 Premium management
-- 🗄️ Database integration
-- 🖥️ Structured web interface
+- Insurance policy management
+- Customer information management
+- Claims processing
+- Premium management
+- Database operations
+- Web interface development
 
 ---
 
-## 📱 06. Day Today Task App
+## 06 · Day Today Task App
 
 ### Android Productivity & Task Management Application
 
-A mobile productivity application developed to help users organize daily activities and manage personal tasks.
+A Kotlin-based Android application developed to help users organize daily activities and manage personal tasks.
 
 ### Technologies
 
 `Kotlin` `Android Studio`
 
-### Key Features
+### Main Areas
 
-- ✅ Task creation
-- 📅 Daily task management
-- 📋 Task organization
-- 📱 Android application development
-- 🎨 Simple and user-friendly interface
+- Task creation
+- Daily task management
+- Task organization
+- Android development
+- Mobile UI design
 
 ---
 
-## ☕ 07. Online Coffee Shop App
+## 07 · Online Coffee Shop App
 
-### Mobile Coffee Ordering & UI/UX Application
+### Mobile Ordering & UI/UX Application
 
-A mobile application concept focused on coffee browsing, ordering and creating a simple digital shopping experience.
+A mobile application concept focused on product browsing, ordering and creating a simple digital shopping experience.
 
 ### Technologies
 
-`Mobile Development` `UI/UX` `Figma`
+`Mobile Development` `Figma` `UI/UX`
 
-### Key Features
+### Main Areas
 
-- ☕ Product browsing
-- 🛒 Ordering experience
-- 🎨 UI/UX design
-- 📱 Mobile-first interface
-- 🧭 User-focused navigation
-
----
-
-# 🔬 Research & Academic Work
-
-## 🧠 Dengue Health SL
-
-### Final Year Research Project
-
-**Research Areas:**
-
-`Machine Learning` `Explainable AI` `Data Visualization` `Mobile Applications`
-
-The research project focuses on developing an intelligent mobile-based system for dengue risk analysis.
-
-The system combines machine learning with **Explainable AI (XAI)** to provide understandable explanations behind model outputs rather than presenting predictions as black-box results.
-
-### My Research Role
-
-**IT22165848 — Data Visualization & Research Integration Developer**
-
-### Main Responsibilities
-
-- 🔍 Explainable AI implementation
-- 📊 Data visualization
-- 🧠 SHAP-based model explanation
-- 📱 Mobile application integration
-- 🔗 Backend and API integration
-- 📚 Research documentation
-- 🧪 Research system evaluation
-- 🔄 Integration of research findings with the application
+- Product browsing
+- Ordering experience
+- Mobile-first design
+- UI/UX design
+- User-focused navigation
 
 ---
 
-# 💼 Professional Experience
+# Research
 
-## Sri Lanka Telecom — Full Stack Developer Intern
+## Dengue Health SL — Final Year Research Project
 
-**Sri Lanka Telecom (SLT) — Colombo**
+### Research Areas
 
-During my internship, I gained practical exposure to professional software development and full-stack application development.
+`Machine Learning` · `Explainable AI` · `Data Visualization` · `Mobile Applications`
 
-### Areas of Experience
+My final-year research project explores an intelligent mobile-based approach for dengue risk analysis.
 
-- 🌐 Full-stack web development
-- ⚛️ React-based development
-- 🟢 Node.js
-- 🗄️ Database integration
-- 🔌 Backend and API development
-- 🎨 System and interface design
-- 🤝 Team collaboration
-- 🧩 Problem solving
-- 📋 Software development practices
+The system integrates machine learning with **Explainable AI (XAI)** to provide understandable explanations behind model outputs instead of presenting predictions as unexplained black-box results.
 
-This experience helped me understand how software development concepts are applied within a professional working environment.
+### My Contribution
 
----
-
-# 🎓 Education
-
-## 🎓 Sri Lanka Institute of Information Technology — SLIIT
-
-### BSc (Hons) in Information Technology
-
-**2022 — Present**
-
-Areas of academic exposure include:
-
-- Software Engineering
-- Database Systems
-- Web Development
-- Mobile Application Development
-- Data Structures
-- Business Analysis
-- Cloud Computing
-- Artificial Intelligence
-- Research & Development
-
----
-
-## 🏫 Ananda Balika Vidyalaya
-
-### G.C.E. Advanced Level
-
-**2018 — 2021**
-
----
-
-## 🏫 Ananda Balika Vidyalaya
-
-### G.C.E. Ordinary Level
-
-**2012 — 2018**
-
----
-
-# 📜 Certifications
-
-| Certification | Institution / Platform | Year |
-|---|---|---|
-| Web Design for Beginners | University of Moratuwa | 2023 |
-| Python for Beginners | University of Moratuwa | 2023 |
-| Digital Skills — Artificial Intelligence | Accenture | 2023 |
-| Cambridge English — Entry Level | Cambridge | 2023 |
-| Mobile App Design in Figma | Udemy | 2024 |
-| Project Management | Great Learning | 2024 |
-| Human Resource Management | Oxford Home Study Centre | 2024 |
-| Electronics & Communication Engineering | DIATM | 2024 |
-
----
-
-# 🧩 My Technical Journey
+**Data Visualization & Research Integration Developer**
 
 ```text
-IT Foundation
-      │
-      ▼
-Programming
-      │
-      ▼
-Web Development
-      │
-      ▼
-Full-Stack Development
-      │
-      ▼
-Database Systems
-      │
-      ▼
-Mobile Development
-      │
-      ▼
-Data & Visualization
-      │
-      ▼
-Machine Learning
-      │
-      ▼
-Explainable AI
-      │
-      ▼
-Research & Intelligent Systems
+Research Data
+      ↓
+Machine Learning Model
+      ↓
+SHAP Explainability
+      ↓
+Visual Interpretation
+      ↓
+Mobile Application
