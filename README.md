@@ -1,128 +1,128 @@
 <div align="center">
 
-<!-- ===================================================== -->
-<!--                     HERO SECTION                       -->
-<!-- ===================================================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         HERO                                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:1D4ED8,100:06B6D4&height=260&section=header&text=AYANIMA%20THASANYA&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=IT%20Undergraduate%20%7C%20Data%20%7C%20AI%20%7C%20Software&descAlignY=57&descSize=18&animation=fadeIn" width="100%"/>
+<a href="https://github.com/ayanimathasanya">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0F172A,65:1E3A8A,100:0891B2&height=280&section=header&text=AYANIMA%20THASANYA&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=IT%20UNDERGRADUATE%20%7C%20DATA%20%7C%20AI%20%7C%20SOFTWARE&descAlignY=56&descSize=17&animation=fadeIn" width="100%"/>
+
+</a>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Digital+Solutions+with+Purpose;Exploring+Data+Science+%26+Artificial+Intelligence;Full+Stack+%7C+Mobile+%7C+Data+%7C+Research;Turning+Data+into+Insights+%26+Ideas+into+Systems" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Digital+Solutions;Exploring+Data+Science+%26+AI;Full+Stack+%7C+Mobile+%7C+Data+%7C+Research;Turning+Data+into+Insights;Turning+Ideas+into+Systems" alt="Typing SVG"/>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/ayanima-thasanya-hettiarachchi-6b0886223/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ayanimathasanya2002@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ayanimathasanya">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-ayanimathasanya-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ayanimathasanya&label=PROFILE%20VIEWS&color=0EA5E9&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ayanimathasanya&label=PROFILE%20VIEWS&color=0891B2&style=for-the-badge"/>
 
 </div>
 
 ---
 
-<!-- ===================================================== -->
-<!--                    INTRODUCTION                        -->
-<!-- ===================================================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         INTRO                                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# 👋 Hi, I'm Ayanima
+# 👋 Hello, I'm Ayanima Hettiarachchi
 
-### **IT Undergraduate • Developer • Data Enthusiast • Researcher**
-
-</div>
-
-I'm **Ayanima Thasanya Hettiarachchi**, an **IT Undergraduate at the Sri Lanka Institute of Information Technology (SLIIT)**.
-
-My journey began with **software and web development**, and I'm continuously expanding toward **Data Science, Artificial Intelligence, Machine Learning, Data Visualization, and research-driven applications**.
-
-I enjoy transforming ideas and real-world problems into practical digital solutions by combining:
-
-<div align="center">
-
-`💻 Software` &nbsp; `📊 Data` &nbsp; `🤖 AI` &nbsp; `📱 Mobile` &nbsp; `🎨 Design` &nbsp; `🔬 Research`
+### `IT Undergraduate` • `Developer` • `Data Enthusiast` • `Researcher`
 
 </div>
 
 <br>
 
+I'm **Ayanima Thasanya Hettiarachchi**, an **IT Undergraduate at the Sri Lanka Institute of Information Technology (SLIIT)**.
+
+My technical journey started with **software and web development**, and I'm now expanding my focus toward **Data Science, Artificial Intelligence, Machine Learning, Data Visualization, Cloud Computing, and research-oriented applications**.
+
+I enjoy building technology that connects **software + data + intelligence** to solve practical problems.
+
+<br>
+
 <div align="center">
 
-> ### **"Turning ideas into systems, and data into meaningful insights."**
+### `💻 Code` → `📊 Data` → `🤖 Intelligence` → `🌍 Impact`
 
 </div>
 
 ---
 
-<!-- ===================================================== -->
-<!--                    QUICK OVERVIEW                      -->
-<!-- ===================================================== -->
+# 🌟 What I Do
 
 <div align="center">
-
-## ⚡ Quick Overview
 
 <table>
 <tr>
 
-<td align="center" width="180">
-<br>
-<img src="https://img.icons8.com/fluency/64/graduation-cap.png"/>
-<br><br>
-<b>Education</b>
-<br>
-BSc (Hons) IT
-<br>
-SLIIT
-<br><br>
+<td width="25%" align="center">
+
+## 💻
+
+### Software
+
+Full Stack  
+Web Apps  
+REST APIs  
+Mobile Apps
+
 </td>
 
-<td align="center" width="180">
-<br>
-<img src="https://img.icons8.com/fluency/64/source-code.png"/>
-<br><br>
-<b>Development</b>
-<br>
-Web • Mobile
-<br>
-Full Stack
-<br><br>
+<td width="25%" align="center">
+
+## 📊
+
+### Data
+
+Data Analysis  
+Visualization  
+Analytics  
+Insights
+
 </td>
 
-<td align="center" width="180">
-<br>
-<img src="https://img.icons8.com/fluency/64/artificial-intelligence.png"/>
-<br><br>
-<b>AI & Data</b>
-<br>
-ML • Analytics
-<br>
-Visualization
-<br><br>
+<td width="25%" align="center">
+
+## 🤖
+
+### AI
+
+Machine Learning  
+Predictive Systems  
+Explainable AI  
+Intelligent Apps
+
 </td>
 
-<td align="center" width="180">
-<br>
-<img src="https://img.icons8.com/fluency/64/research.png"/>
-<br><br>
-<b>Research</b>
-<br>
-Applied Computing
-<br>
-Data-driven Systems
-<br><br>
+<td width="25%" align="center">
+
+## 🔬
+
+### Research
+
+Applied Computing  
+Data-driven Research  
+Experimentation  
+Innovation
+
 </td>
 
 </tr>
@@ -135,37 +135,33 @@ Data-driven Systems
 # 🧭 My Technology Journey
 
 ```text
-                    SOFTWARE DEVELOPMENT
-                            │
-                            ▼
-                 ┌──────────────────────┐
-                 │   Full Stack Web     │
-                 │   Mobile Development │
-                 │   APIs & Databases   │
-                 └──────────┬───────────┘
-                            │
-                            ▼
-                         DATA
-                            │
-                 ┌──────────┴───────────┐
-                 │                      │
-                 ▼                      ▼
-          Data Analysis          Data Visualization
-                 │                      │
-                 └──────────┬───────────┘
-                            │
-                            ▼
-                    ARTIFICIAL INTELLIGENCE
-                            │
-                 ┌──────────┴───────────┐
-                 │                      │
-                 ▼                      ▼
-          Machine Learning        Explainable AI
-                 │                      │
-                 └──────────┬───────────┘
-                            │
-                            ▼
-                     APPLIED RESEARCH
-                            │
-                            ▼
-                    REAL-WORLD IMPACT
+                         ┌─────────────────────┐
+                         │   SOFTWARE BUILDING  │
+                         └──────────┬──────────┘
+                                    │
+                   ┌────────────────┼────────────────┐
+                   ▼                ▼                ▼
+                🌐 WEB            📱 MOBILE       ⚙️ BACKEND
+                   │                │                │
+                   └────────────────┼────────────────┘
+                                    ▼
+                              📊 DATA
+                                    │
+                   ┌────────────────┼────────────────┐
+                   ▼                ▼                ▼
+              ANALYSIS       VISUALIZATION       INSIGHTS
+                   │                │                │
+                   └────────────────┼────────────────┘
+                                    ▼
+                               🤖 AI / ML
+                                    │
+                   ┌────────────────┼────────────────┐
+                   ▼                ▼                ▼
+              PREDICTION       EXPLAINABILITY      INTELLIGENCE
+                   │                │                │
+                   └────────────────┼────────────────┘
+                                    ▼
+                              🔬 RESEARCH
+                                    │
+                                    ▼
+                           🌍 REAL-WORLD IMPACT
