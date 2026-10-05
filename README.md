@@ -1,25 +1,23 @@
 <div align="center">
 
-# Ayanima Thasanya Hettiarachchi
-
-### Information Technology Undergraduate · Software Developer · Data & AI Enthusiast
-
-<p>
-  <em>Turning ideas into practical digital solutions.</em>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:06B6D4&height=180&section=header&text=Ayanima%20Thasanya%20Hettiarachchi&fontSize=30&fontColor=FFFFFF&fontAlignY=40&desc=IT%20Undergraduate%20%7C%20Software%20Developer%20%7C%20Data%20%26%20AI%20Enthusiast&descAlignY=62&descSize=14" width="100%"/>
 
 <br>
 
+<img src="https://github.com/ayanimathasanya.png" width="150" height="150" style="border-radius:50%;" alt="Ayanima Thasanya Hettiarachchi"/>
+
+<br><br>
+
 <a href="https://www.linkedin.com/in/ayanima-thasanya-hettiarachchi-6b0886223/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
+
 <a href="mailto:ayanimathasanya2002@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-&nbsp;
+
 <a href="https://github.com/ayanimathasanya">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-ayanimathasanya-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 <br><br>
@@ -30,7 +28,7 @@
 
 ---
 
-## About Me
+# 👋 About Me
 
 I'm an **Information Technology undergraduate at the Sri Lanka Institute of Information Technology (SLIIT)** with hands-on experience in software development, mobile applications, databases, UI/UX and research-oriented systems.
 
@@ -40,35 +38,28 @@ I enjoy understanding a problem first, designing a practical solution and turnin
 
 ### Areas I'm Interested In
 
-- Full-Stack Development
-- Mobile Application Development
-- Data Analysis & Visualization
-- Artificial Intelligence & Machine Learning
-- Explainable AI
-- UI/UX Design
-- Research & Development
-- Database Systems
+`Full-Stack Development` · `Mobile Development` · `Data Science` · `Artificial Intelligence` · `Machine Learning` · `Explainable AI` · `UI/UX` · `Research`
 
 ---
 
-## What I Build
+# ✦ What I Build
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" align="left">
 
-### Software Systems
+### ◈ Software Systems
 
 Full-stack web applications, database-driven systems and practical management solutions.
 
 </td>
 
-<td width="50%">
+<td width="50%" align="left">
 
-### Mobile Applications
+### ◈ Mobile Applications
 
-Android and Flutter applications focused on usability and real-world functionality.
+Android and Flutter applications focused on usability, functionality and user experience.
 
 </td>
 
@@ -76,19 +67,19 @@ Android and Flutter applications focused on usability and real-world functionali
 
 <tr>
 
-<td width="50%">
+<td width="50%" align="left">
 
-### Data & AI
+### ◈ Data & AI
 
 Data visualization, machine learning and Explainable AI solutions.
 
 </td>
 
-<td width="50%">
+<td width="50%" align="left">
 
-### Research
+### ◈ Research
 
-Technology-driven research projects that connect data, intelligent systems and real-world problems.
+Technology-driven research projects connecting data, intelligent systems and real-world problems.
 
 </td>
 
@@ -97,9 +88,9 @@ Technology-driven research projects that connect data, intelligent systems and r
 
 ---
 
-# Selected Projects
+# 🚀 Selected Projects
 
-> A selection of academic, research and personal projects developed throughout my IT journey.
+> A collection of academic, research and personal projects developed throughout my IT journey.
 
 ---
 
@@ -109,15 +100,15 @@ Technology-driven research projects that connect data, intelligent systems and r
 
 Dengue Health SL is a research-oriented mobile application that combines machine learning, data visualization and Explainable AI to support dengue risk analysis.
 
-### My Role
+**My Role**
 
-**IT22165848 — Data Visualization & Research Integration Developer**
+`IT22165848 — Data Visualization & Research Integration Developer`
 
-### Technologies
+**Technologies**
 
 `Flutter` `Python` `Flask` `Machine Learning` `SHAP` `Data Visualization`
 
-### Main Areas
+**Focus Areas**
 
 - Explainable AI
 - SHAP-based model explanations
@@ -136,11 +127,11 @@ Dengue Health SL is a research-oriented mobile application that combines machine
 
 Home Stock is a MERN-based application designed to help users manage household products, monitor stock levels and keep track of product expiry dates.
 
-### Technologies
+**Technologies**
 
 `MongoDB` `Express.js` `React` `Node.js`
 
-### Main Areas
+**Focus Areas**
 
 - Inventory management
 - Stock monitoring
@@ -157,11 +148,11 @@ Home Stock is a MERN-based application designed to help users manage household p
 
 Tasty Tales is a full-stack web application designed for discovering, managing and sharing recipes through an interactive community platform.
 
-### Technologies
+**Technologies**
 
 `React` `Spring Boot` `Java` `MongoDB`
 
-### Main Areas
+**Focus Areas**
 
 - Recipe management
 - Recipe sharing
@@ -178,11 +169,11 @@ Tasty Tales is a full-stack web application designed for discovering, managing a
 
 A MERN-based management system designed to simplify surfing school operations, student management and administrative activities.
 
-### Technologies
+**Technologies**
 
 `MongoDB` `Express.js` `React` `Node.js`
 
-### Main Areas
+**Focus Areas**
 
 - Student registration
 - Class scheduling
@@ -199,11 +190,11 @@ A MERN-based management system designed to simplify surfing school operations, s
 
 A database-driven web application developed to manage insurance policies, customer information, claims and premium-related information.
 
-### Technologies
+**Technologies**
 
 `HTML` `CSS` `JavaScript` `MySQL`
 
-### Main Areas
+**Focus Areas**
 
 - Insurance policy management
 - Customer information management
@@ -220,11 +211,11 @@ A database-driven web application developed to manage insurance policies, custom
 
 A Kotlin-based Android application developed to help users organize daily activities and manage personal tasks.
 
-### Technologies
+**Technologies**
 
 `Kotlin` `Android Studio`
 
-### Main Areas
+**Focus Areas**
 
 - Task creation
 - Daily task management
@@ -240,11 +231,11 @@ A Kotlin-based Android application developed to help users organize daily activi
 
 A mobile application concept focused on product browsing, ordering and creating a simple digital shopping experience.
 
-### Technologies
+**Technologies**
 
 `Mobile Development` `Figma` `UI/UX`
 
-### Main Areas
+**Focus Areas**
 
 - Product browsing
 - Ordering experience
@@ -254,7 +245,7 @@ A mobile application concept focused on product browsing, ordering and creating 
 
 ---
 
-# Research
+# 🔬 Research
 
 ## Dengue Health SL — Final Year Research Project
 
@@ -272,11 +263,15 @@ The system integrates machine learning with **Explainable AI (XAI)** to provide 
 
 ```text
 Research Data
-      ↓
+      │
+      ▼
 Machine Learning Model
-      ↓
+      │
+      ▼
 SHAP Explainability
-      ↓
+      │
+      ▼
 Visual Interpretation
-      ↓
+      │
+      ▼
 Mobile Application
