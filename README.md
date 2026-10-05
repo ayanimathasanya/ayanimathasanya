@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Ayanima%20Hettiarachchi&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=IT%20Undergraduate%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=👩‍💻+Full+Stack+Developer+%7C+MERN+Stack;🎓+BSc+(Hons)+IT+%40+SLIIT;🌱+Always+learning%2C+always+building;💼+Ex-Intern+%40+SLT+Telecom)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=👩‍💻+Full+Stack+Developer+%7C+MERN+Stack;🎓+BSc+(Hons)+IT+%40+SLIIT;🌱+Always+learning%2C+always+building;💼+Internship+%40+SLT+Telecom)](https://git.io/typing-svg)
 
 <br/>
 
